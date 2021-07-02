@@ -219,7 +219,7 @@
     }
     
     #Get_Appointment {
-        width: 35%;
+        text-align: center;
         background-color: #b71540;
         font-size: 14px;
         padding: 15px 10px;
@@ -230,6 +230,7 @@
         -o-border-radius: 12px;
         color: #fff;
         border: none;
+        border: 2px solid lightsalmon;
     }
     
     #Get_Appointment:hover {
